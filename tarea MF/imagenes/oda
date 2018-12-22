@@ -1,0 +1,24 @@
+#triangulo {
+	border-bottom: 80px solid white;
+    border-left: 380px solid transparent;
+    position: absolute;
+    top: 165px;
+    z-index: 1;
+    right: 0;
+}
+#img1{
+	margin-top: -4px;
+	height: 950px;
+	position: static;
+	filter: blur(8px);
+  background-size: cover;
+}
+#img2{
+	width: 900px;
+	height: 900px;
+	left: 30em;
+	position: absolute;
+	top: 380px;
+	z-index: 3;
+  background-size: cover;
+}
